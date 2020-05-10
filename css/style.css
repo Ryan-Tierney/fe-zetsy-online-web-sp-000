@@ -49,6 +49,16 @@ body {
 .small {
     font-size: 0.8em;
 }
+element {
+}
+h2 {
+    color: rgb(111,127,122);
+    font-size: 2em;
+}
+body {
+    font-size: 100%;
+    font-family: 'Times New Roman', serif;
+}
 
 p {
     color: #555;
