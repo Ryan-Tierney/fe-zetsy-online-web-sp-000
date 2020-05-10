@@ -49,3 +49,8 @@ p {
 footer {
     text-align: right;
 }
+
+body {
+    font-size: 100%;
+    font-family: 'Times New Roman', serif;
+}
