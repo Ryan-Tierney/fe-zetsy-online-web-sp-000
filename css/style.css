@@ -12,6 +12,21 @@ body {
  margin:0
 }
 
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+ display:block
+}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
