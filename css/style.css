@@ -1,6 +1,8 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
+ font-family:sans-serif;
+ -ms-text-size-adjust:100%;
+ -webkit-text-size-adjust:100%
 
 /*////////// Global Styles //////////*/
 
